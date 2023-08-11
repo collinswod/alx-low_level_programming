@@ -54,4 +54,3 @@ Prototype: unsigned int flip_bits(unsigned long int n, unsigned long int m);
 You are not allowed to use the % or / operators
 
 # Two Advanced Tasks
- 
